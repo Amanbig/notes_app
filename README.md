@@ -3,8 +3,8 @@
 Notes App is a Flutter-based application for creating, editing, and managing notes. It features a rich text editor, local storage with Hive, and a user-friendly interface for managing your notes efficiently.
 
 <div align="center">
-  <img src="https://github.com/Amanbig/notes_app/blob/main/images/image1.png" alt="Home Screen" width="200"/>
-  <img src="https://github.com/Amanbig/notes_app/blob/main/images/image2.png" alt="Edit Note" width="200"/>
+  <img src="https://github.com/Amanbig/notes_app/blob/main/images/image2.jpg" alt="Home Screen" width="200"/>
+  <img src="https://github.com/Amanbig/notes_app/blob/main/images/image1.jpg" alt="Edit Note" width="200"/>
 </div>
 
 ## Features
